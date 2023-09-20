@@ -1,3 +1,3 @@
 - [Read Me](README)
-- [Regole Teatro](reg_teatro)
-- [Regole Sede](reg_sede)
+- [Regole Locali](reg_locali)
+- [Responsabili](res_associazione)
