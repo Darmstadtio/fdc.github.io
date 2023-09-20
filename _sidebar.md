@@ -1,3 +1,3 @@
-- [Read Me](README)
-- [Regole Locali](reg_locali)
+- [Home](README)
+- [Regole dei Locali](reg_locali)
 - [Responsabili](res_associazione)
