@@ -11,7 +11,7 @@
 ---
 
 ## Resp. Tecnico
-**Ruolo ricoperto da:** Ezio Finazzi
+> **Ruolo ricoperto da:** Ezio Finazzi
 
 - Ricerca di materiale tecnico da aggiungere al magazzino dell'associazione
 - Ricerca del noleggio/service per le serate degli spettacoli e proposta almeno 3 mesi prima dello spettacolo
@@ -26,7 +26,7 @@
 
 
 ## Resp. Coreografie
-**Ruolo ricoperto da:** Camilla Moretti
+> **Ruolo ricoperto da:** Camilla Moretti
 
 - Gestione delle coreografe e organizzazione del calendario balli.
 - Seguire le linee generali della regia rispetto al senso che dovrà avere il ballo e collaborare e chiarire con la stessa eventuali perplessità e/o idee
