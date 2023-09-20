@@ -1,2 +1,3 @@
 - [Read Me](README)
-- [Example Second Page](second-page)
+- [Regole Teatro](reg_teatro)
+- [Regole Sede](reg_sede)
