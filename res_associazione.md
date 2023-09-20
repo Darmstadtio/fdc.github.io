@@ -11,7 +11,7 @@
 ---
 
 ## Resp. Tecnico
-> **Ruolo ricoperto da:** Ezio Finazzi
+> Ruolo ricoperto da: Ezio Finazzi
 
 - Ricerca di materiale tecnico da aggiungere al magazzino dell'associazione
 - Ricerca del noleggio/service per le serate degli spettacoli e proposta almeno 3 mesi prima dello spettacolo
