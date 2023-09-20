@@ -1,4 +1,4 @@
-# Regole Locali
+# Regole dei Locali
 
 ## Teatro
 - Ognuno è responsabile dei propri oggetti di scena e dei propri abiti. Qualora si rompesse o perdesse qualcosa è necessario recuperarlo o aggiustarlo per le prove successive. Questo significa che gli oggetti e gli abiti vanno riordinati e appesi dopo ogni loro utilizzo.
