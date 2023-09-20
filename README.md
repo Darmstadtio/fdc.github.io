@@ -8,4 +8,4 @@
 
 ----
 
-¯\_(ツ)_/¯
+`<- naviga attraverso la navbar qua a sinistra!`
