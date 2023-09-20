@@ -2,7 +2,10 @@
 
 > Regolamenti e Responsabili
 
-[Regole dei Locali dell'Associazione](reg_locali.md)
-[Responsabili e Ruoli dell'Associazione](res_associazione.md)
+#### [Regole dei Locali dell'Associazione](reg_locali.md)
 
-## Cosa sono i FDC
+#### [Responsabili e Ruoli dell'Associazione](res_associazione.md)
+
+----
+
+¯\_(ツ)_/¯
