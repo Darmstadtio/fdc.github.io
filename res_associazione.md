@@ -58,7 +58,7 @@ __
 __
 
 ## Resp. Abiti e Scarpe in Magazzino
-> **Ruolo ricoperto da:** Giorgia Liborio, Bianca
+> **Ruolo ricoperto da:** Giorgia Liborio, Bianca Testi
 
 - Stilare un inventario degli abiti presenti in magazzino. L'inventario va riportato su un foglio excel condiviso che potrebbe essere utile nel momento in cui vengono prestati eventuali abiti.
 - Stilare un inventario delle scarpe presenti in magazzino. L'inventario va riportato su un foglio excel (stessa cartella degli abiti, ma foglio diviso)
@@ -73,7 +73,7 @@ __
 __
 
 ## Resp. Social
-> **Ruolo ricoperto da:** Lucrezia
+> **Ruolo ricoperto da:** Lucrezia Fetri
 - Occuparsi della gestione del gruppo social: chiunque ha idee o proposte deve farlo attraverso il responsabile che provvederà a comunicarlo al gruppo.
 - Può delegare a qualcuno la gestione del social supervisionando e tracciando i confini di ciò che può o non può essere pubblicato.
 - Deve chiedere e occuparsi di procurare il materiale da pubblicare sui social (fotografie, video, locandine... ). Se è impossibilitato alla produzione può incaricare qualcuno di fornirglielo.
@@ -156,3 +156,7 @@ __
 - Gestire e riportare eventuali problematiche riguardanti la realizzazione dello spettacolo.
 - Gestire e riportare eventuali problematiche riportate dai diversi responsabili.
 - Cercare di mantenere un clima di armonia all'interno del gruppo durante le prove.
+
+---
+
+_il Direttivo de I Fuori dal Coro_
