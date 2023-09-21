@@ -1,6 +1,8 @@
 # Responsabili Associazione
 
-[Tecnico](## Resp. Tecnico)  &#124  [Coreografie](## Resp. Coreografie)  &#124  [Sede](## Resp. Sede)  &#124  [Abiti Magazzino](## Resp. Abiti e Scarpe in Magazzino)  &#124  [Rapporti Associazioni](## Resp. Rapporti con Altre Associazioni)  &#124  [](## Resp. Abiti per lo Spettacolo)  &#124  [Eventi](## Resp. Eventi)  &#124  [Direzione Artistica](## Resp. Direzione Artistica)
+[Tecnico](##Resp. Tecnico)  |  
+
+[Coreografie](## Resp. Coreografie)  &#124  [Sede](## Resp. Sede)  &#124  [Abiti Magazzino](## Resp. Abiti e Scarpe in Magazzino)  &#124  [Rapporti Associazioni](## Resp. Rapporti con Altre Associazioni)  &#124  [](## Resp. Abiti per lo Spettacolo)  &#124  [Eventi](## Resp. Eventi)  &#124  [Direzione Artistica](## Resp. Direzione Artistica)
 
 - I responsabili sono tenuti a rispettare i propri impegni.
 - I responsabili sono tenuti a comunicare eventuali problemi con i membri del direttivo.
