@@ -159,6 +159,6 @@ __
 - Gestire e riportare eventuali problematiche riportate dai diversi responsabili.
 - Cercare di mantenere un clima di armonia all'interno del gruppo durante le prove.
 
----
+----
 
 _il Direttivo de I Fuori dal Coro_

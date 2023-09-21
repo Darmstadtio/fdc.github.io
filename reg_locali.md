@@ -33,6 +33,6 @@
 - Ogni membro può ricordare a qualsiasi persona le regole sopra esposte.
 - Chiunque volesse portare un membro esterno all'associazione negli ambienti della stessa deve avvisare perché non coperto da assicurazione sanitaria.
 
----
+----
 
 _il Direttivo de I Fuori dal Coro_
