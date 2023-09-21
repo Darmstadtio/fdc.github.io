@@ -1,7 +1,7 @@
 # Responsabili Associazione
 
-[Tecnico](##Resp.-Tecnico)  |
-[Coreografie](https://darmstadtio.github.io/fdc.github.io/#/res_associazione?id=resp-coreografie)  |
+[Tecnico](##resp-tecnico)  |
+[Coreografie](## resp-coreografie)  |
 [Sede](https://darmstadtio.github.io/fdc.github.io/#/res_associazione?id=resp-sede)  |
 [Abiti Magazzino](https://darmstadtio.github.io/fdc.github.io/#/res_associazione?id=resp-abiti-e-scarpe-in-magazzino)  |
 [Social](https://darmstadtio.github.io/fdc.github.io/#/res_associazione?id=resp-social)  |
