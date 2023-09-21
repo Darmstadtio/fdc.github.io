@@ -9,3 +9,7 @@
 ----
 
 `<- naviga attraverso la navbar qua a sinistra!`
+
+----
+
+_il Direttivo de I Fuori dal Coro_

@@ -1,5 +1,7 @@
 # Regole dei Locali
 
+`<- naviga attraverso la navbar qua a sinistra!`
+
 ----
 
 ## Teatro
