@@ -1,8 +1,14 @@
 # Responsabili Associazione
 
-[Tecnico](##Resp. Tecnico)  |  
-
-[Coreografie](## Resp. Coreografie)  &#124  [Sede](## Resp. Sede)  &#124  [Abiti Magazzino](## Resp. Abiti e Scarpe in Magazzino)  &#124  [Rapporti Associazioni](## Resp. Rapporti con Altre Associazioni)  &#124  [](## Resp. Abiti per lo Spettacolo)  &#124  [Eventi](## Resp. Eventi)  &#124  [Direzione Artistica](## Resp. Direzione Artistica)
+[Tecnico](https://darmstadtio.github.io/fdc.github.io/#/res_associazione?id=resp-tecnico)  |  
+[Coreografie](https://darmstadtio.github.io/fdc.github.io/#/res_associazione?id=resp-coreografie)  |
+[Sede](https://darmstadtio.github.io/fdc.github.io/#/res_associazione?id=resp-sede)  |
+[Abiti Magazzino](https://darmstadtio.github.io/fdc.github.io/#/res_associazione?id=resp-abiti-e-scarpe-in-magazzino)  |
+[Social](https://darmstadtio.github.io/fdc.github.io/#/res_associazione?id=resp-social)  |
+[Rapporti Associazioni](https://darmstadtio.github.io/fdc.github.io/#/res_associazione?id=resp-rapporti-con-altre-associazioni)  |
+[Abiti Spettacolo](https://darmstadtio.github.io/fdc.github.io/#/res_associazione?id=resp-abiti-per-lo-spettacolo)  |
+[Eventi](https://darmstadtio.github.io/fdc.github.io/#/res_associazione?id=resp-eventi)  |
+[Direzione Artistica](https://darmstadtio.github.io/fdc.github.io/#/res_associazione?id=resp-direzione-artistica)  |
 
 - I responsabili sono tenuti a rispettare i propri impegni.
 - I responsabili sono tenuti a comunicare eventuali problemi con i membri del direttivo.
