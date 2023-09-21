@@ -1,5 +1,7 @@
 # Responsabili Associazione
 
+[Tecnico](## Resp. Tecnico)  &#124  [Coreografie](## Resp. Coreografie)  &#124  [Sede](## Resp. Sede)  &#124  [Abiti Magazzino](## Resp. Abiti e Scarpe in Magazzino)  &#124  [Rapporti Associazioni](## Resp. Rapporti con Altre Associazioni)  &#124  [](## Resp. Abiti per lo Spettacolo)  &#124  [Eventi](## Resp. Eventi)  &#124  [Direzione Artistica](## Resp. Direzione Artistica)
+
 - I responsabili sono tenuti a rispettare i propri impegni.
 - I responsabili sono tenuti a comunicare eventuali problemi con i membri del direttivo.
 - A fine o inizio anno si terrà una riunione per valutare l'andamento generale del gruppo. È possibile convocare una riunione con il direttivo qualora fosse necessario discutere di varie ed eventuali più serie.
